@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+} /* No CSS */ /*# sourceMappingURL=App.css.map */
+#start {
+  background-image: url("https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2013/07/Jarvis.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  text-transform: uppercase;
+  display: flex;
+}
+#profiler {
+  position: relative;
+  top: 40%;
+  left: 30%;
+  width: 40%;
+  height: 400px;
+  text-align: center;
+  border: 3px solid white;
+  color: white;
+}

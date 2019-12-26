@@ -1,0 +1,41 @@
+#profileborder {
+  width: 90%;
+  height: 600px;
+  position: absolute;
+  left: 5%;
+  background-color: rgb(3, 144, 252);
+}
+#profile {
+  width: 94%;
+  height: 90%;
+  margin: 3%;
+  background: whitesmoke;
+}
+
+div > img {
+  position: relative;
+  top: 15px;
+  left: 10px;
+  width: 160px;
+  height: 160px;
+}
+#details {
+  position: fixed;
+  top: 17%;
+  border: 1px solid black;
+  left: 25%;
+  width: 65%;
+}
+#details > span {
+  color: rgb(31, 8, 21);
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+}
+#details > span > h2 {
+  padding: 3px;
+  margin: 0;
+  border-collapse: collapse;
+}
+#details > span > span {
+  text-align: right;
+}

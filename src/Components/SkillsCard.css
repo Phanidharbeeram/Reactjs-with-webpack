@@ -1,0 +1,63 @@
+#Cardimage {
+  width: 16.5rem;
+  height: 200px;
+  padding: 0px;
+  margin: 0;
+}
+h3#name {
+  text-align: center;
+  text-transform: capitalize;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/* display: block;
+    margin: auto;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom: 1px solid #ededed;
+    /* width: 100%; */
+#skills {
+  position: relative;
+  top: 250px;
+
+  margin: 20px;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-content: space-around;
+  background-image: url("https://www.bitdegree.org/tutorials/wp-content/uploads/2018/08/what-is-a-web-developer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.skill {
+  flex: 0 1 calc(50%);
+  opacity: 0.5;
+}
+/* @media screen and (min-width: 40em) {
+  .skills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .skill {
+    flex: 0 1 calc(25% -2rem);
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .skillss {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .skill {
+    flex: 0 1 calc(25% -2rem);
+  }
+} */
