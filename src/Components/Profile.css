@@ -39,3 +39,9 @@ div > img {
 #details > span > span {
   text-align: right;
 }
+
+table {
+  line-height: 1.8;
+  padding: 10px;
+  margin: 10px;
+}
