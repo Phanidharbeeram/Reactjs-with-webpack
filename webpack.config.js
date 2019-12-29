@@ -16,10 +16,6 @@ module.exports = {
           loader: "babel-loader"
         }
       },
-      {
-        test: /\.html$/,
-        use: ["html-loader"]
-      },
 
       {
         test: /\.(css|scss)$/i,

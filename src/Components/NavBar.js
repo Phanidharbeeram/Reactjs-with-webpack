@@ -29,6 +29,9 @@ export default function NavBar() {
           </li>
           <li>
             <Link to="/skills">Skills</Link>
+          </li>{" "}
+          <li>
+            <Link to="/smoothscroll">SmoothScroll</Link>
           </li>
         </ul>
       </nav>

@@ -1,0 +1,46 @@
+.container {
+  background-size: contain;
+  background-repeat: no-repeat;
+  font-size: xx-large;
+  width: 100%;
+  height: 100vh;
+  border: 5px solid red;
+  background: green;
+  padding: 10rem 10rem;
+  text-align: center;
+  color: white;
+}
+h2 {
+  text-transform: capitalize;
+  margin-top: 40px;
+}
+button {
+  background: powerblue;
+  padding: 10px 20px;
+  margin: 4px;
+  border-radius: 4px;
+  position: relative;
+  top: 200px;
+  left: 58%;
+
+  text-transform: capitalize;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+/* .active {
+  /* this is defind in recat scroll  
+} */
+#a1 {
+  background-image: url("https://i.pinimg.com/originals/4c/2d/e5/4c2de5df7ec88fb93d5f89cd68600ddd.jpg");
+}
+#a2 {
+  background-image: url("http://getwallpapers.com/wallpaper/full/0/a/8/13575.jpg");
+}
+#a3 {
+  background-image: url("https://i.pinimg.com/originals/57/d7/7f/57d77ff8366261c3af50455207ce3390.jpg");
+}
+#a4 {
+  background-image: url("https://wallup.net/wp-content/uploads/2017/11/23/509696-simple-simple_background-minimalism-fingerprint-black_background-748x421.jpg");
+}
+#a5 {
+  background-image: url("https://cdn.suwalls.com/wallpapers/abstract/blue-squares-44907-2560x1600.jpg");
+}
